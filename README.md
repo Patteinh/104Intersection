@@ -11,7 +11,7 @@ This project explores the intersections of light rays with various 3D surfaces, 
 - **Language:** Python
 - **Binary Name:** 104intersection
 
-## Project Overview 📜
+## Project Overview 🔎
 
 The aim of this project is to compute potential intersection points between light rays and certain 3D surfaces, specifically spheres, cylinders, and cones. This involves formulating a 3D equation of the surface and a quadratic equation to find the intersection points.
 
